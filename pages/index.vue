@@ -7,8 +7,11 @@
         <VuesaxLogo />
       </header>
       <h1 class="title">
-        Arko's Develop Branch: uses Nuxt.js + Vuesax
+        Arko's Develop Branch
       </h1>
+      <h2>
+        Uses Nuxt.js + Vuesax
+      </h2>
       <h2 class="subtitle">
         <a href="https://vuesax.com/">Vuesax</a> is a framework of ui components for <a href="https://vuejs.org/">Vuejs</a>, It was created to make new interfaces that have a new trend and are visually beautiful
       </h2>
